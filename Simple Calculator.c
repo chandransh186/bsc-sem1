@@ -15,7 +15,7 @@ int main() {
     printf("Enter the two numbers\n");
 
     if (opr8r == 'a') {
-      printf(GREEN "\nThe sum of %d and %d is %d\na\n", num1, num2, num1 + num2);
+      printf(GREEN "\nThe sum of %d and %d is %d\n\n", num1, num2, num1 + num2);
     }
     if (opr8r == 's') {
       printf(GREEN "\nThe result of %d - %d is %d\n\n", num1, num2,
