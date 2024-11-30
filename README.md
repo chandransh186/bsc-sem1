@@ -17,12 +17,12 @@ To get started with the programs in this repository, follow these simple steps:
 1. **Clone the repository**  
    Begin by cloning the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/chandransh186/first-semester-c-programs.git
+   git clone https://github.com/chandransh186/bsc-sem1.git
 
 2. **Navigate to the program directory**  
    After cloning the repository, change to the program directory:
    ```bash
-   cd first-semester-c-programs
+   cd bsc-sem1
 3. **Compile the C program**  
    To compile a program, use a C compiler like GCC. Replace `program_name.c` with the filename of the program you want to compile. Run the following command:
    ```bash
